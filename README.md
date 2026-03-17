@@ -105,4 +105,5 @@ Better UI styling (JavaFX version)
 👩‍💻 Author
 
 Umme Mehajabin Anisha
+
 CSE Student
