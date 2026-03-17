@@ -75,7 +75,7 @@ ESC	Exit Game
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/SnakeGame-Java.git
+git clone https://github.com/anisha274/SnakeGame-Java.git
 
 Open in IntelliJ IDEA (or any Java IDE)
 
